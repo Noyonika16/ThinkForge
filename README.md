@@ -52,7 +52,16 @@ User Query
 
 ## 🖥️ Demo UI
 
-> *(Add screenshots here — highly recommended)*
+<img width="959" height="412" alt="1" src="https://github.com/user-attachments/assets/b72359c9-b62e-457c-8c19-ff56bc7a4947" />
+<img width="953" height="406" alt="3" src="https://github.com/user-attachments/assets/597816b8-ad97-4dbe-97d7-d8ebb02bf028" />
+<img width="440" height="383" alt="5" src="https://github.com/user-attachments/assets/4fa8b939-565e-4bf1-a1eb-7ae59949aac0" />
+<img width="353" height="362" alt="pipeline" src="https://github.com/user-attachments/assets/975c9575-123b-46e0-b3f9-aa4f3111aace" />
+<img width="840" height="352" alt="working1" src="https://github.com/user-attachments/assets/e21b0edf-bf64-48a5-981e-6babb1bccd5f" />
+<img width="757" height="400" alt="working 3" src="https://github.com/user-attachments/assets/9ffa2f54-626b-4c77-b5e1-b99c973f299c" />
+<img width="761" height="402" alt="working4" src="https://github.com/user-attachments/assets/44ad52cd-abed-49fb-8589-9c9711f43c8a" />
+<img width="717" height="412" alt="working5" src="https://github.com/user-attachments/assets/0c74ffb8-af37-4208-a54f-5bc6f022a276" />
+<img width="770" height="412" alt="working6" src="https://github.com/user-attachments/assets/5d08f397-a0d8-4ba3-8068-eba93d097ecf" />
+
 
 ---
 
