@@ -68,7 +68,7 @@ User Query
 ## ⚙️ Tech Stack
 
 * **Frontend:** Streamlit
-* **LLM Framework:** LangChain, LangGraph
+* **LLM Framework:** LangChain
 * **LLM Provider:** OpenRouter (GPT-OSS-120B)
 * **Search API:** Tavily
 * **Scraping:** Playwright + BeautifulSoup
